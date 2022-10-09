@@ -8,7 +8,7 @@ The Odin Project (Foundations): https://www.theodinproject.com/lessons/foundatio
 To create and display on an UI using DOM Manipulation Methods the classic: Etch-a-Sketch
 
 ## Preview:
-![Etch-a-Sketch](https://github.com/JulianCrt/rock-paper-scissors/blob/main/imgs/Rock-Paper-Scissors-TOP.png)
+![Etch-a-Sketch](https://github.com/JulianCrt/etch-a-sketch/blob/main/Etch-a-Sketch.png)
 
 ### Software: 
 * JavaScript
